@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using these metadata."
+title: "Learned Trotter Skeletons: Counting T Gates for Compressed Hamiltonian-Simulation Circuits"
+type: software
+authors:
+  - family-names: Degala
+    given-names: Chenchupradeep
+repository-code: "https://github.com/pradeepdegalaroyal/learned-trotter-circuits-t-count-synthesis-budget"
+url: "https://github.com/pradeepdegalaroyal/learned-trotter-circuits-t-count-synthesis-budget"
+license: MIT
+version: 0.1.0
+date-released: "2026-11-07"
+keywords:
+  - quantum simulation
+  - product formulas
+  - T-count
+  - fault tolerance
+  - circuit learning
+abstract: "Simulation study of learned-angle Strang-skeleton circuits for the propagator of a disordered Ising chain, compared with Strang and Suzuki formulas at equal rotation count and equal synthesis-inclusive T-count, with angle-noise, Pauli-noise and ablation studies."
